@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and robotics.
 - 🌱 I’m currently learning web development.
 - 💞️ 
-- 📫 How to reach me santhprashant@gmail.com
+- 📫 How to reach me email : santhprashant@gmail.com
 - 😄 
 - ⚡ Fun fact: ...
 

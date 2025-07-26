@@ -10,7 +10,7 @@
 
 - 🎓 **Electronics Engineering Student** at Paschimanchal Campus (WRC, IOE, Nepal)
 - 🤖 **Executive Member** at Robotics Club
-- 💼 **Electronics Engineer Intern** at YarsaTech, Pokhara
+- 💼 ** Former Electronics Engineer Intern** at YarsaTech, Pokhara
 - 🌐 **Web Developer** specializing in Hugo & Frontend technologies
 - 🧑‍🏫 **Mentor** in Robotics Fellowship programs
 - 📍 Based in **Pokhara, Nepal**

@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/-santhprashant@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhprashant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-prashantbdri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantbdri)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://bhandadari-prashant.com.np)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://bhandari-prashant.com.np)
 [![Twitter](https://img.shields.io/badge/-@prashant_usr-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prashant_usr)
 
 </div>
@@ -132,7 +132,7 @@ Feel free to reach out if you'd like to work together or just chat about technol
 
 [![Email](https://img.shields.io/badge/Email-santhprashant@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhprashant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantbdri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhandadari-prashant.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhandari-prashant.com.np)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prashant_usr)
 
 </div>

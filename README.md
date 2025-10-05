@@ -21,6 +21,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![KiCAD](https://img.shields.io/badge/-KiCAD-314CB0?style=flat-square&logo=kicad&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

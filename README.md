@@ -104,8 +104,6 @@ interests: ["Embedded Systems", "Robotics", "IoT", "Web Development", "Open Sour
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prashantbhandary&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandary&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>

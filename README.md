@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-santhprashant@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhprashant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-prashantbdri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantbdri)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://bhandadari-prashant.com.np)
-[![Twitter](https://img.shields.io/badge/-@santhprashant-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prashant_usr)
+[![Twitter](https://img.shields.io/badge/-@prashant_usr-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prashant_usr)
 
 </div>
 

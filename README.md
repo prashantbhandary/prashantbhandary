@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;IoT+Solutions+Architect;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/-santhprashant@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhprashant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-prashantbdri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantbdri)

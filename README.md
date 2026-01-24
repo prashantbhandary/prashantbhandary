@@ -1,4 +1,4 @@
-# Hi there, I'm Prashant Bhandari 👋
+#Prashant Bhandari
 
 <div align="center">
   
@@ -10,22 +10,6 @@
 [![Twitter](https://img.shields.io/badge/-@prashant_usr-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prashant_usr)
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **Electronics Engineering student** passionate about building innovative hardware and software solutions. With hands-on experience in robotics, embedded systems, and web development, I enjoy bridging the gap between hardware and software to create impactful projects.
-
-- 🎓 Pursuing **B.E. in Electronics Engineering** at Paschimanchal Campus (WRC, IOE, Nepal)
-- 💼 **Electronics Engineer Intern** at Seds, Nepal
-- 🤖 **Executive Member** at Robotics Club, leading technical initiatives
-- 💼 **Former Electronics Engineer Intern** at YarsaTech, Pokhara
-- 🧑‍🏫 Mentoring students in **Robotics**, **ESP32**, and **3D Printing**
-- 🌍 Based in **Pokhara, Nepal** 🇳🇵
-
----
-
 ## 🚀 What I Do
 
 ```yaml
@@ -68,36 +52,6 @@ interests: ["Embedded Systems", "Robotics", "IoT", "Web Development", "Open Sour
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-## 🎯 Current Focus
-
-- 🔬 Developing **embedded systems** and custom **PCB designs**
-- 🤖 Building competitive **robotics projects** (Micromouse, Line Following)
-- 🌐 Creating modern **web applications** with responsive designs
-- 📚 Contributing to **open-source** hardware and software projects
-- 🧑‍🏫 Mentoring aspiring engineers in **electronics and programming**
-
----
-
-## 🏆 Experience & Achievements
-
-### Professional Experience
-- **Electronics Engineer Intern** | YarsaTech, Pokhara
-  - Worked on IoT-based solutions and embedded system prototypes
-  - Collaborated with cross-functional teams on product development
-
-### Leadership & Community
-- **Executive Member** | Robotics Club, WRC
-  - Organizing technical workshops and robotics competitions
-  - Mentoring students in embedded systems and 3D printing technologies
-
-### Notable Projects
-- 🤖 **Micromouse Robot** - Autonomous maze-solving robot
-- 🌐 **IoT Monitoring System** - ESP32-based real-time data acquisition
-- 💻 **Portfolio Website** - Built with Hugo and TailwindCSS
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -110,17 +64,10 @@ interests: ["Embedded Systems", "Robotics", "IoT", "Web Development", "Open Sour
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-updated using GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Let's Collaborate!
 
-I'm always interested in collaborating on:
+interested in collaborating on:
 - 🤖 Robotics and automation projects
 - 🔌 IoT and embedded systems
 - 🌐 Web development initiatives

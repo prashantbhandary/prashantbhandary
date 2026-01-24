@@ -1,32 +1,8 @@
 # Prashant Bhandari
 
 <div align="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-
-[![Gmail](https://img.shields.io/badge/-santhprashant@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhprashant@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-prashantbdri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantbdri)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://bhandari-prashant.com.np)
-[![Twitter](https://img.shields.io/badge/-@prashant_usr-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prashant_usr)
-
 </div>
-## 🚀 What I Do
-
-```yaml
-hardware:
-  microcontrollers: ["Arduino", "ESP32", "Raspberry Pi"]
-  design: ["KiCAD", "PCB Design", "Circuit Design"]
-  projects: ["Micromouse", "IoT Systems", "Robotics"]
-
-software:
-  web: ["HTML5", "CSS3", "JavaScript", "Hugo", "TailwindCSS"]
-  embedded: ["C/C++", "Arduino IDE", "Platform IO"]
-  tools: ["Git", "GitHub", "VS Code"]
-
-interests: ["Embedded Systems", "Robotics", "IoT", "Web Development", "Open Source"]
-```
-
----
 
 ## 🛠️ Tech Stack
 

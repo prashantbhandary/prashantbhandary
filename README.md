@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,9 +34,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/prashantbhandary)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandary&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashantbhandary&theme=tokyonight&hide_border=true)](https://github.com/prashantbhandary)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/prashantbhandary)
 
 </div>
 
@@ -45,7 +47,7 @@
 
 ## 🤝 Let's Collaborate!
 
-interested in collaborating on:
+I'm interested in collaborating on:
 - 🤖 Robotics and automation projects
 - 🔌 IoT and embedded systems
 - 🌐 Web development initiatives

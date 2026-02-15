@@ -1,10 +1,12 @@
 # Prashant Bhandari
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,21 +32,30 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prashantbhandary&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-profile-trophy.vercel.app/?username=prashantbhandary&theme=tokyonight&no-frame=true&row=1&column=4" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantbhandary&theme=tokyo-night&hide_border=true" width="100%"/>
+<!-- STREAK STATS - Very Reliable ✅ -->
+<img src="https://streak-stats.demolab.com?user=prashantbhandary&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+
+<!-- STATS CARD - Using willianrod's reliable instance ✅ -->
+<img src="https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<!-- TOP LANGUAGES ✅ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<!-- ACTIVITY GRAPH - Very Reliable ✅ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantbhandary&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
----
 
+---
 
 ## 🤝 Let's Collaborate!
 
-interested in collaborating on:
+Interested in collaborating on:
 - 🤖 Robotics and automation projects
 - 🔌 IoT and embedded systems
 - 🌐 Web development initiatives

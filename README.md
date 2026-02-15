@@ -35,9 +35,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
-<img src="https://streak-stats.demolab.com?user=prashantbhandary&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=prashantbhandary&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantbhandary&theme=tokyonight" height="180"/>
 
 </div>

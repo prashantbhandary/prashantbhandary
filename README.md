@@ -21,13 +21,6 @@
 ---
 
 ## 🤝 Let's Collaborate!
-
-Interested in collaborating on:
-- 🤖 Robotics and automation projects
-- 🔌 IoT and embedded systems
-- 🌐 Web development initiatives
-- 📖 Open-source contributions
-
 Feel free to reach out if you'd like to work together or just chat about technology!
 
 <div align="center">

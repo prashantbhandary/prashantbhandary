@@ -33,26 +33,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- STREAK STATS - Very Reliable ✅ -->
-<img src="https://streak-stats.demolab.com?user=prashantbhandary&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-
-<!-- STATS CARD - Using willianrod's reliable instance ✅ -->
-<img src="https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<!-- TOP LANGUAGES ✅ -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<!-- ACTIVITY GRAPH - Very Reliable ✅ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantbhandary&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate!
 
 Interested in collaborating on:

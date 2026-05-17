@@ -5,30 +5,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prashantbhandary&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandary&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantbhandary&theme=tokyo-night&hide_border=true)](https://github.com/prashantbhandary)
-
-</div>
-
----
-
 ## 💻 Development Metrics
 
 <div align="center">

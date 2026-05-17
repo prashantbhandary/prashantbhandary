@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)
 
-![](https://streak-stats.demolab.com/?user=prashantbhandary&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prashantbhandary&theme=tokyonight&hide_border=true)
 
 </div>
 

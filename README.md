@@ -9,13 +9,27 @@
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+</div>
+
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantbhandary&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantbhandary&theme=tokyonight" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prashantbhandary&theme=tokyonight" width="400"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantbhandary&theme=tokyonight" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantbhandary&theme=tokyonight&utcOffset=5.75" width="400"/>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantbhandary&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prashantbhandary&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantbhandary&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantbhandary&theme=tokyonight&utcOffset=5.75)
 
 </div>
 

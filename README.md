@@ -1,6 +1,9 @@
 # Prashant Bhandari
+
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Electronics+Engineering+Student;Robotics+%26+Embedded+Systems+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -9,9 +12,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=prashantbhandary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prashantbhandary&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=prashantbhandary&theme=tokyonight&hide_border=true)
 
 </div>
 

@@ -18,25 +18,7 @@
 
 </div>
 
-<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantbhandary&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantbhandary&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prashantbhandary&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantbhandary&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantbhandary&theme=tokyonight&utcOffset=5.75)
-
-</div>
 
 ---
 

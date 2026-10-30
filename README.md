@@ -11,7 +11,7 @@ Applying for PhD positions in robotics, starting Fall 2027.
 - [OFDM + QPSK Link Simulation](https://github.com/prashantbhandary/ofdm-sumulations): text over an 8-subcarrier OFDM link, BER checked against theory.
 - [NEPSE Quant Desk](https://github.com/prashantbhandary/nepse-quant-desk): ML stock ranking for the Nepal Stock Exchange ([live](https://prashantbhandary.github.io/nepse-quant-desk/)).
 
-Write-ups for all of these are at **[bhandari-prashant.com.np/projects](https://bhandari-prashant.com.np/projects)**.
+More projects and full write-ups: **[bhandari-prashant.com.np/projects](https://bhandari-prashant.com.np/projects)**.
 
 **Tools:** KiCad · C/C++ · STM32 · ESP32 · FreeRTOS · Python · Fusion 360
 
